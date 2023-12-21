@@ -12,3 +12,6 @@ HealthMonitor is designed as a collaborative space for developers to create modu
 - Modules in Kotlin (mobile app development), React Native (cross-platform compatibility), Firebase (data storage), and more
 - MIT, Apache 2.0, GPL, and other licenses
 - Provides a platform for users to monitor physical activities, nutrition, and overall well-being
+
+
+TODO ADDED JERE
